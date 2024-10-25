@@ -215,6 +215,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="Services\BrowserService.cs" />
+    <Compile Include="Services\RussianTextConverter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
